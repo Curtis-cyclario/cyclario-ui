@@ -1,0 +1,4 @@
+{
+  "dependencies": ["cyclario-ui"],
+  "devDependencies": ["cyclario-web"]
+}
